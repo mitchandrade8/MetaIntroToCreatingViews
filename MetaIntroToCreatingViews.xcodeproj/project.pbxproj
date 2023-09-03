@@ -14,6 +14,7 @@
 		748868DB2AA441DC00F45F77 /* Notes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748868DA2AA441DC00F45F77 /* Notes.swift */; };
 		748868DD2AA442FD00F45F77 /* FrameAndLayoutReadingExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748868DC2AA442FD00F45F77 /* FrameAndLayoutReadingExample.swift */; };
 		748868DF2AA4445200F45F77 /* StacksAndViewOverview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748868DE2AA4445200F45F77 /* StacksAndViewOverview.swift */; };
+		748868E12AA4EDB300F45F77 /* ExampleZStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748868E02AA4EDB300F45F77 /* ExampleZStack.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		748868DA2AA441DC00F45F77 /* Notes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notes.swift; sourceTree = "<group>"; };
 		748868DC2AA442FD00F45F77 /* FrameAndLayoutReadingExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameAndLayoutReadingExample.swift; sourceTree = "<group>"; };
 		748868DE2AA4445200F45F77 /* StacksAndViewOverview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksAndViewOverview.swift; sourceTree = "<group>"; };
+		748868E02AA4EDB300F45F77 /* ExampleZStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleZStack.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				748868DA2AA441DC00F45F77 /* Notes.swift */,
 				748868DC2AA442FD00F45F77 /* FrameAndLayoutReadingExample.swift */,
 				748868DE2AA4445200F45F77 /* StacksAndViewOverview.swift */,
+				748868E02AA4EDB300F45F77 /* ExampleZStack.swift */,
 				748868D02AA3D6D200F45F77 /* Assets.xcassets */,
 				748868D22AA3D6D200F45F77 /* Preview Content */,
 			);
@@ -148,6 +151,7 @@
 			files = (
 				748868CF2AA3D6D000F45F77 /* ContentView.swift in Sources */,
 				748868CD2AA3D6D000F45F77 /* MetaIntroToCreatingViewsApp.swift in Sources */,
+				748868E12AA4EDB300F45F77 /* ExampleZStack.swift in Sources */,
 				748868DB2AA441DC00F45F77 /* Notes.swift in Sources */,
 				748868DD2AA442FD00F45F77 /* FrameAndLayoutReadingExample.swift in Sources */,
 				748868DF2AA4445200F45F77 /* StacksAndViewOverview.swift in Sources */,
