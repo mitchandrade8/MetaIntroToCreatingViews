@@ -17,10 +17,20 @@ struct ExampleZStack: View {
                     .scaledToFit()
                     .frame(width: 100, height: 100, alignment: .center)
                 VStack(spacing: 12) {
-                    Text("")
+                    Text("Current Focus")
+                        .font(.title)
+                        .fontDesign(.serif)
+                        .italic()
+                    
+                    Text("Stacks in SwiftUI - ZStack, HStack, VStack")
+                        .font(.title3)
+                        .multilineTextAlignment(.center)
                 }
+                .padding()
             }
+            .padding()
         }
+//        .padding()
     }
 }
 
