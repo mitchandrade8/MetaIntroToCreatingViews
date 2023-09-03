@@ -13,6 +13,7 @@
 		748868D42AA3D6D200F45F77 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 748868D32AA3D6D200F45F77 /* Preview Assets.xcassets */; };
 		748868DB2AA441DC00F45F77 /* Notes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748868DA2AA441DC00F45F77 /* Notes.swift */; };
 		748868DD2AA442FD00F45F77 /* FrameAndLayoutReadingExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748868DC2AA442FD00F45F77 /* FrameAndLayoutReadingExample.swift */; };
+		748868DF2AA4445200F45F77 /* StacksAndViewOverview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748868DE2AA4445200F45F77 /* StacksAndViewOverview.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		748868D32AA3D6D200F45F77 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		748868DA2AA441DC00F45F77 /* Notes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notes.swift; sourceTree = "<group>"; };
 		748868DC2AA442FD00F45F77 /* FrameAndLayoutReadingExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameAndLayoutReadingExample.swift; sourceTree = "<group>"; };
+		748868DE2AA4445200F45F77 /* StacksAndViewOverview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksAndViewOverview.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				748868CE2AA3D6D000F45F77 /* ContentView.swift */,
 				748868DA2AA441DC00F45F77 /* Notes.swift */,
 				748868DC2AA442FD00F45F77 /* FrameAndLayoutReadingExample.swift */,
+				748868DE2AA4445200F45F77 /* StacksAndViewOverview.swift */,
 				748868D02AA3D6D200F45F77 /* Assets.xcassets */,
 				748868D22AA3D6D200F45F77 /* Preview Content */,
 			);
@@ -147,6 +150,7 @@
 				748868CD2AA3D6D000F45F77 /* MetaIntroToCreatingViewsApp.swift in Sources */,
 				748868DB2AA441DC00F45F77 /* Notes.swift in Sources */,
 				748868DD2AA442FD00F45F77 /* FrameAndLayoutReadingExample.swift in Sources */,
+				748868DF2AA4445200F45F77 /* StacksAndViewOverview.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
