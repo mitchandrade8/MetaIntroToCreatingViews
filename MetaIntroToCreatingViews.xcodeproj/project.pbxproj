@@ -18,6 +18,7 @@
 		748868E32AA4F0FA00F45F77 /* ExampleCreatingViewUsingStacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748868E22AA4F0FA00F45F77 /* ExampleCreatingViewUsingStacks.swift */; };
 		748868E52AA4F4D800F45F77 /* MoreStacksExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748868E42AA4F4D800F45F77 /* MoreStacksExample.swift */; };
 		748868E72AA4F67700F45F77 /* MetaExerciseCreatingASimpleViewStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748868E62AA4F67700F45F77 /* MetaExerciseCreatingASimpleViewStack.swift */; };
+		748868E92AA5025F00F45F77 /* MetaAnswerToExercise.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748868E82AA5025F00F45F77 /* MetaAnswerToExercise.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		748868E22AA4F0FA00F45F77 /* ExampleCreatingViewUsingStacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleCreatingViewUsingStacks.swift; sourceTree = "<group>"; };
 		748868E42AA4F4D800F45F77 /* MoreStacksExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoreStacksExample.swift; sourceTree = "<group>"; };
 		748868E62AA4F67700F45F77 /* MetaExerciseCreatingASimpleViewStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MetaExerciseCreatingASimpleViewStack.swift; sourceTree = "<group>"; };
+		748868E82AA5025F00F45F77 /* MetaAnswerToExercise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MetaAnswerToExercise.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				748868E22AA4F0FA00F45F77 /* ExampleCreatingViewUsingStacks.swift */,
 				748868E42AA4F4D800F45F77 /* MoreStacksExample.swift */,
 				748868E62AA4F67700F45F77 /* MetaExerciseCreatingASimpleViewStack.swift */,
+				748868E82AA5025F00F45F77 /* MetaAnswerToExercise.swift */,
 				748868D02AA3D6D200F45F77 /* Assets.xcassets */,
 				748868D22AA3D6D200F45F77 /* Preview Content */,
 			);
@@ -167,6 +170,7 @@
 				748868DB2AA441DC00F45F77 /* Notes.swift in Sources */,
 				748868DD2AA442FD00F45F77 /* FrameAndLayoutReadingExample.swift in Sources */,
 				748868DF2AA4445200F45F77 /* StacksAndViewOverview.swift in Sources */,
+				748868E92AA5025F00F45F77 /* MetaAnswerToExercise.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
